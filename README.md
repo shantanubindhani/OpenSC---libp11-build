@@ -2,6 +2,7 @@ If you are too lazy to make and build OpenSC and libp11 individually on linux fl
 way less work, and more lazing around.
 
 clone this repo
+
 cd into the cloned dir
 
 run command 
