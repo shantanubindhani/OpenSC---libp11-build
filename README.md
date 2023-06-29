@@ -1,4 +1,5 @@
 clone this repo
+cd into the cloned dir
 
 run command 
 > bash script-to-build-\&-install-OpenSC-and-libp11.sh
@@ -20,7 +21,7 @@ verify if active
 > systemctl status pcscd
 
 now you can use all the tools like
-<table><tr><td>Note : must have SmartReader connect to use these commands </td></tr></table>
+<table><tr><td>Note : must have SmartReader connected to use these commands </td></tr></table>
 
 > opensc-tool --list-readers
 
