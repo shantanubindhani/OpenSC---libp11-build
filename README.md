@@ -21,6 +21,7 @@ verify if active
 
 now you can use all the tools like
 <table><tr><td>Note : must have SmartReader connect to use these commands </td></tr></table>
+
 > opensc-tool --list-readers
 
 > pkcs11-tool --list-slots
